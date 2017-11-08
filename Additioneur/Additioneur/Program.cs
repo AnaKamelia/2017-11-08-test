@@ -10,6 +10,9 @@ namespace Additioneur
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Additioneur");
+            Console.WriteLine("===========");
+            Console.Read();
         }
     }
 }
