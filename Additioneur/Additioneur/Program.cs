@@ -12,6 +12,12 @@ namespace Additioneur
         {
             Console.WriteLine("Additioneur");
             Console.WriteLine("===========");
+
+            Console.Write("Saisir une valeur numérique: ");
+            double dblValeur = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Valeur saisie: " + dblValeur.ToString());
+
             Console.Read();
         }
     }
