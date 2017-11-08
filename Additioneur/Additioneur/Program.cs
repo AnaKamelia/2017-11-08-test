@@ -10,7 +10,7 @@ namespace Additioneur
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Additioneur");
+            Console.WriteLine("Calculateur");
             Console.WriteLine("===========");
 
             Console.Write("Saisir une valeur numérique: ");
